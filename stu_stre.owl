@@ -1,0 +1,3022 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/veska/ontologies/2017/1/untitled-ontology-12"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/veska/ontologies/2017/1/untitled-ontology-12">
+    <Prefix name="" IRI="http://www.semanticweb.org/veska/ontologies/2017/1/untitled-ontology-12#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Socialeconomic_factors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gender_related"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Forgetfulness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Psychotherapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Nightmares"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Prefrontal_cortex"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Manikanta"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Causes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Obsessive_Compullsion_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#loss_of_libido"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Celexa"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Stress_balls"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Situational"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Disorganisation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Indulging_in_tobacco"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Antidepressants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cognition-alteration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hippocampus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cortisol"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Stress"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#expressing_oneself"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Difficult_to_concentrate"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Pepto-Bismol"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#sleep_disturbances"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#low_esteem"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Head_aches"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Coping_pattern"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Imipramine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Escaping_or_Avoidance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Coping_Pattern"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Neurophysiological"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Student_Name"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Manojkumar"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Feeling_agitated"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#time_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Dopamine"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Stress_harmones"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Loss_of_appetaite"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Progressive_muscle_relaxation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Subjective"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cultural_factors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sexual_Abuse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Lubiprostone"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Zoloft"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bayer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tricyclic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Skin_rashes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Indulging_in_hobbies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Objective"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Warm_water_bath"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Listen_to_music"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Age"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Feeling_overwhelmed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sucralfate"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Duloxetine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Rapid_heartbeat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Interpersonal-relationships"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Weight_gain_or_loss"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Distracting_from_Stress"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#yoga"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Doxepin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Reliving_events"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#hair_loss"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Acupuncture_and_Acupressure"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#head_aches"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Feeling_fear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Medication"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Acute_Stress_Disorder"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_effected"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Loneliness"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Music"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Steroid_Medication"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cognitive_factor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Allegra"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#arguments"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Nitroglycerin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Prozac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Insomnia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#positive_appraisal"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Electrolyte_solution"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chronic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Epinephrine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Interpersonal_therapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Migrane"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Work_load"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Amitza"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Avoiding_remainders"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Aleve"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Over_Eating"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Linzess"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sleeping"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Post-traumatic_stress_disorder"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_undergoing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Parents_Divorse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Stress_harmone_receptor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Regular_Excercices"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Physical_recreation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Lactulose"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#deadlines"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Heart_palpitation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Unable_to_avoid_thoughts"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Anxiety"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Meditation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Shorten_of_Breath"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Fear_for_future"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Amitriptyline"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Anxiety_disorder"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Class_Name"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Muscle_aches"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#exams"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Alosetron"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gastro_Intestional"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Kaopectate"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Deep_breathing"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_mediated_by"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Advil"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Feeling_Restless"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Glucocorticoid"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Over_eating"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_showing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Nausea"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Satya"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.co-ode.org/ontologies/ont.owl#Finance"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Behaviour_therapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Constipation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Histamine2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mediators"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Gender"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pharmacotherapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Chest_Pain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Physiological_techniques"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#HPA_axis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Night_sweating"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Saieswar"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hunger"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Obesity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Teath_grinding"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Irritable_Bowl_Syndrome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Aspirin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Fibromyalgia"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#leads_to"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#sudden_anger"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Male"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#unable_to_relax"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Alchol_or_Drugs"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Claritin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Treatment"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Spend_time_alone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Effects"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Benadryl"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Problems_in_sharing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Fatigue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Health_Issues"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Amygdala"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#participation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Tylenol"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Heriditary_Problems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Depression"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#causes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Zyrtec"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cathecolamine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hydrotherapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Female"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Imodium"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#weight_gain"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Esomeprazole"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Abuse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Spiritual"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sleep_disturbances"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_treated"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Avoiding_others"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Attention-alteration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Missing_menstural_cycle"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Milnacipran"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#pyschotherapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Family_Issues"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Exposure_therapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sowmya"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Diarrhoea"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Dizzines"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Emotion-alteration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#meditation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#over_using_social_media"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Over_the_counter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Limbic_system_reaction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cognitive_therapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Self_blame"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Polyethylene_glycol"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Psychological-relative"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Childhood_trauma"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_caused"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Disturbing_dreams"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Biogenic-Absolute"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Acute"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Psychological"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mood_swings"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Frustration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Neurophysiological-alterations"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Difficult_to_communicate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Alternative-therapies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seeking_Support"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#mediated_to"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Panic_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Prazosin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#negative_appraisal"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Rifaximin"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <Class IRI="#Effects"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Acute"/>
+        <Class IRI="#Psychological-relative"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Coping_Pattern"/>
+        <Class IRI="#Coping_pattern"/>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Acute"/>
+        <Class IRI="#Causes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Alternative-therapies"/>
+        <Class IRI="#Treatment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Antidepressants"/>
+        <Class IRI="#Pharmacotherapy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Attention-alteration"/>
+        <Class IRI="#Effects"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Biogenic-Absolute"/>
+        <Class IRI="#Causes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cathecolamine"/>
+        <Class IRI="#Stress_harmones"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Causes"/>
+        <Class IRI="#Stress"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chronic"/>
+        <Class IRI="#Causes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cognition-alteration"/>
+        <Class IRI="#Effects"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cognitive_factor"/>
+        <Class IRI="#Psychological"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Coping_Pattern"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Coping_pattern"/>
+        <Class IRI="#Psychological"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cultural_factors"/>
+        <Class IRI="#Situational"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Effects"/>
+        <Class IRI="#Stress"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Emotion-alteration"/>
+        <Class IRI="#Effects"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gender_related"/>
+        <Class IRI="#Psychological"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Glucocorticoid"/>
+        <Class IRI="#Stress_harmones"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Health_Issues"/>
+        <Class IRI="#Effects"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interpersonal-relationships"/>
+        <Class IRI="#Effects"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Limbic_system_reaction"/>
+        <Class IRI="#Neurophysiological"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mediators"/>
+        <Class IRI="#Stress"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Medication"/>
+        <Class IRI="#Pharmacotherapy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Neurophysiological"/>
+        <Class IRI="#Mediators"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Neurophysiological-alterations"/>
+        <Class IRI="#Effects"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Objective"/>
+        <Class IRI="#Causes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Over_the_counter"/>
+        <Class IRI="#Pharmacotherapy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pharmacotherapy"/>
+        <Class IRI="#Treatment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Physiological_techniques"/>
+        <Class IRI="#Treatment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Psychological"/>
+        <Class IRI="#Mediators"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Psychological-relative"/>
+        <Class IRI="#Causes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Psychotherapy"/>
+        <Class IRI="#Treatment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Situational"/>
+        <Class IRI="#Mediators"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Socialeconomic_factors"/>
+        <Class IRI="#Situational"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Stress_harmone_receptor"/>
+        <Class IRI="#Neurophysiological"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Stress_harmones"/>
+        <Class IRI="#Neurophysiological"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Subjective"/>
+        <Class IRI="#Causes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Treatment"/>
+        <Class IRI="#Stress"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tricyclic"/>
+        <Class IRI="#Antidepressants"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#Chronic"/>
+        <NamedIndividual IRI="http://www.co-ode.org/ontologies/ont.owl#Finance"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Chronic"/>
+        <NamedIndividual IRI="#Abuse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Alternative-therapies"/>
+        <NamedIndividual IRI="#Acupuncture_and_Acupressure"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cognition-alteration"/>
+        <NamedIndividual IRI="#Acute_Stress_Disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Over_the_counter"/>
+        <NamedIndividual IRI="#Advil"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Alchol_or_Drugs"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Over_the_counter"/>
+        <NamedIndividual IRI="#Aleve"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Over_the_counter"/>
+        <NamedIndividual IRI="#Allegra"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Alosetron"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Tricyclic"/>
+        <NamedIndividual IRI="#Amitriptyline"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Amitza"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Limbic_system_reaction"/>
+        <NamedIndividual IRI="#Amygdala"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Neurophysiological-alterations"/>
+        <NamedIndividual IRI="#Anxiety"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cognition-alteration"/>
+        <NamedIndividual IRI="#Anxiety_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Aspirin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Interpersonal-relationships"/>
+        <NamedIndividual IRI="#Avoiding_others"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <NamedIndividual IRI="#Avoiding_remainders"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Over_the_counter"/>
+        <NamedIndividual IRI="#Bayer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Alternative-therapies"/>
+        <NamedIndividual IRI="#Behaviour_therapy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Over_the_counter"/>
+        <NamedIndividual IRI="#Benadryl"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Antidepressants"/>
+        <NamedIndividual IRI="#Celexa"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Chest_Pain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Chronic"/>
+        <NamedIndividual IRI="#Childhood_trauma"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Over_the_counter"/>
+        <NamedIndividual IRI="#Claritin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Psychotherapy"/>
+        <NamedIndividual IRI="#Cognitive_therapy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Constipation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Glucocorticoid"/>
+        <NamedIndividual IRI="#Cortisol"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Physiological_techniques"/>
+        <NamedIndividual IRI="#Deep_breathing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Emotion-alteration"/>
+        <NamedIndividual IRI="#Depression"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Diarrhoea"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Interpersonal-relationships"/>
+        <NamedIndividual IRI="#Difficult_to_communicate"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Attention-alteration"/>
+        <NamedIndividual IRI="#Difficult_to_concentrate"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Attention-alteration"/>
+        <NamedIndividual IRI="#Disorganisation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Distracting_from_Stress"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Neurophysiological-alterations"/>
+        <NamedIndividual IRI="#Disturbing_dreams"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Neurophysiological-alterations"/>
+        <NamedIndividual IRI="#Dizzines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cathecolamine"/>
+        <NamedIndividual IRI="#Dopamine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Tricyclic"/>
+        <NamedIndividual IRI="#Doxepin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Duloxetine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Over_the_counter"/>
+        <NamedIndividual IRI="#Electrolyte_solution"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Glucocorticoid"/>
+        <NamedIndividual IRI="#Epinephrine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Escaping_or_Avoidance"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Esomeprazole"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Psychotherapy"/>
+        <NamedIndividual IRI="#Exposure_therapy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Chronic"/>
+        <NamedIndividual IRI="#Family_Issues"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Neurophysiological-alterations"/>
+        <NamedIndividual IRI="#Fatigue"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Chronic"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Neurophysiological-alterations"/>
+        <NamedIndividual IRI="#Feeling_Restless"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Emotion-alteration"/>
+        <NamedIndividual IRI="#Feeling_agitated"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Emotion-alteration"/>
+        <NamedIndividual IRI="#Feeling_fear"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Emotion-alteration"/>
+        <NamedIndividual IRI="#Feeling_overwhelmed"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Gender_related"/>
+        <NamedIndividual IRI="#Female"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Fibromyalgia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Attention-alteration"/>
+        <NamedIndividual IRI="#Forgetfulness"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Emotion-alteration"/>
+        <NamedIndividual IRI="#Frustration"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Gastro_Intestional"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Neurophysiological"/>
+        <NamedIndividual IRI="#HPA_axis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Head_aches"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Heart_palpitation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Heriditary_Problems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Limbic_system_reaction"/>
+        <NamedIndividual IRI="#Hippocampus"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Histamine2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <NamedIndividual IRI="#Hunger"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Alternative-therapies"/>
+        <NamedIndividual IRI="#Hydrotherapy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Tricyclic"/>
+        <NamedIndividual IRI="#Imipramine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Imodium"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Indulging_in_hobbies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Indulging_in_tobacco"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Insomnia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Psychotherapy"/>
+        <NamedIndividual IRI="#Interpersonal_therapy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Irritable_Bowl_Syndrome"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Kaopectate"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Lactulose"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Linzess"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Listen_to_music"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Emotion-alteration"/>
+        <NamedIndividual IRI="#Loneliness"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Loss_of_appetaite"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Lubiprostone"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Gender_related"/>
+        <NamedIndividual IRI="#Male"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+        <NamedIndividual IRI="#Manikanta"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+        <NamedIndividual IRI="#Manojkumar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Alternative-therapies"/>
+        <NamedIndividual IRI="#Meditation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Migrane"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Milnacipran"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Neurophysiological-alterations"/>
+        <NamedIndividual IRI="#Missing_menstural_cycle"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#is_mediated_by"/>
+            <Class IRI="#Gender_related"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="#Missing_menstural_cycle"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Emotion-alteration"/>
+        <NamedIndividual IRI="#Mood_swings"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Muscle_aches"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Music"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Nausea"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Night_sweating"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Neurophysiological-alterations"/>
+        <NamedIndividual IRI="#Nightmares"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Nitroglycerin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Obesity"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cognition-alteration"/>
+        <NamedIndividual IRI="#Obsessive_Compullsion_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Over_Eating"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Over_eating"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cognition-alteration"/>
+        <NamedIndividual IRI="#Panic_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Chronic"/>
+        <NamedIndividual IRI="#Parents_Divorse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Over_the_counter"/>
+        <NamedIndividual IRI="#Pepto-Bismol"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Physical_recreation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Over_the_counter"/>
+        <NamedIndividual IRI="#Polyethylene_glycol"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cognition-alteration"/>
+        <NamedIndividual IRI="#Post-traumatic_stress_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Prazosin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Limbic_system_reaction"/>
+        <NamedIndividual IRI="#Prefrontal_cortex"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Physiological_techniques"/>
+        <NamedIndividual IRI="#Progressive_muscle_relaxation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Antidepressants"/>
+        <NamedIndividual IRI="#Prozac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Rapid_heartbeat"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <NamedIndividual IRI="#Reliving_events"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Rifaximin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+        <NamedIndividual IRI="#Saieswar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+        <NamedIndividual IRI="#Satya"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Seeking_Support"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Self_blame"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Chronic"/>
+        <NamedIndividual IRI="#Sexual_Abuse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Shorten_of_Breath"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Skin_rashes"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Neurophysiological-alterations"/>
+        <NamedIndividual IRI="#Sleep_disturbances"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Sleeping"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+        <NamedIndividual IRI="#Sowmya"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Spend_time_alone"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Coping_pattern"/>
+        <NamedIndividual IRI="#Spiritual"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Alternative-therapies"/>
+        <NamedIndividual IRI="#Stress_balls"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="#Sucralfate"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Teath_grinding"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Over_the_counter"/>
+        <NamedIndividual IRI="#Tylenol"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <NamedIndividual IRI="#Unable_to_avoid_thoughts"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Physiological_techniques"/>
+        <NamedIndividual IRI="#Warm_water_bath"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Health_Issues"/>
+        <NamedIndividual IRI="#Weight_gain_or_loss"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Chronic"/>
+        <NamedIndividual IRI="#Work_load"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Antidepressants"/>
+        <NamedIndividual IRI="#Zoloft"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Over_the_counter"/>
+        <NamedIndividual IRI="#Zyrtec"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Acute"/>
+        <NamedIndividual IRI="#arguments"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Acute"/>
+        <NamedIndividual IRI="#deadlines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Acute"/>
+        <NamedIndividual IRI="#exams"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Acute"/>
+        <NamedIndividual IRI="#expressing_oneself"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <NamedIndividual IRI="#hair_loss"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <NamedIndividual IRI="#head_aches"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Neurophysiological-alterations"/>
+        <NamedIndividual IRI="#loss_of_libido"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Emotion-alteration"/>
+        <NamedIndividual IRI="#low_esteem"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Physiological_techniques"/>
+        <NamedIndividual IRI="#meditation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cognitive_factor"/>
+        <NamedIndividual IRI="#negative_appraisal"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Acute"/>
+        <NamedIndividual IRI="#over_using_social_media"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Acute"/>
+        <NamedIndividual IRI="#participation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cognitive_factor"/>
+        <NamedIndividual IRI="#positive_appraisal"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Psychotherapy"/>
+        <NamedIndividual IRI="#pyschotherapy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <NamedIndividual IRI="#sleep_disturbances"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <NamedIndividual IRI="#sudden_anger"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Acute"/>
+        <NamedIndividual IRI="#time_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <NamedIndividual IRI="#unable_to_relax"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+        <NamedIndividual IRI="#weight_gain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Physiological_techniques"/>
+        <NamedIndividual IRI="#yoga"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Chronic"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+    </ClassAssertion>
+    <SameIndividual>
+        <NamedIndividual IRI="#Anxiety"/>
+        <NamedIndividual IRI="#sudden_anger"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#Anxiety_disorder"/>
+        <NamedIndividual IRI="#sudden_anger"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#Difficult_to_concentrate"/>
+        <NamedIndividual IRI="#Unable_to_avoid_thoughts"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#Head_aches"/>
+        <NamedIndividual IRI="#head_aches"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#Post-traumatic_stress_disorder"/>
+        <NamedIndividual IRI="#Unable_to_avoid_thoughts"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#Sleep_disturbances"/>
+        <NamedIndividual IRI="#sleep_disturbances"/>
+    </SameIndividual>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="http://www.co-ode.org/ontologies/ont.owl#Finance"/>
+        <NamedIndividual IRI="#Avoiding_others"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="http://www.co-ode.org/ontologies/ont.owl#Finance"/>
+        <NamedIndividual IRI="#Depression"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="http://www.co-ode.org/ontologies/ont.owl#Finance"/>
+        <NamedIndividual IRI="#Feeling_agitated"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="http://www.co-ode.org/ontologies/ont.owl#Finance"/>
+        <NamedIndividual IRI="#Loss_of_appetaite"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="http://www.co-ode.org/ontologies/ont.owl#Finance"/>
+        <NamedIndividual IRI="#Mood_swings"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="http://www.co-ode.org/ontologies/ont.owl#Finance"/>
+        <NamedIndividual IRI="#Sleep_disturbances"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="http://www.co-ode.org/ontologies/ont.owl#Finance"/>
+        <NamedIndividual IRI="#loss_of_libido"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Abuse"/>
+        <NamedIndividual IRI="#Depression"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Abuse"/>
+        <NamedIndividual IRI="#Rapid_heartbeat"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Abuse"/>
+        <NamedIndividual IRI="#low_esteem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Amygdala"/>
+        <NamedIndividual IRI="#Depression"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Amygdala"/>
+        <NamedIndividual IRI="#Feeling_agitated"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Amygdala"/>
+        <NamedIndividual IRI="#Feeling_fear"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Amygdala"/>
+        <NamedIndividual IRI="#Frustration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_mediated_by"/>
+        <NamedIndividual IRI="#Anxiety"/>
+        <NamedIndividual IRI="#Dopamine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Anxiety_disorder"/>
+        <NamedIndividual IRI="#Behaviour_therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Anxiety_disorder"/>
+        <NamedIndividual IRI="#Prozac"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Anxiety_disorder"/>
+        <NamedIndividual IRI="#Zoloft"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Anxiety_disorder"/>
+        <NamedIndividual IRI="#pyschotherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Chest_Pain"/>
+        <NamedIndividual IRI="#Nitroglycerin"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Chest_Pain"/>
+        <NamedIndividual IRI="#Zoloft"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Chest_Pain"/>
+        <NamedIndividual IRI="#Heart_palpitation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Childhood_trauma"/>
+        <NamedIndividual IRI="#Avoiding_others"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Childhood_trauma"/>
+        <NamedIndividual IRI="#Obsessive_Compullsion_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Childhood_trauma"/>
+        <NamedIndividual IRI="#Panic_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Childhood_trauma"/>
+        <NamedIndividual IRI="#Post-traumatic_stress_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Childhood_trauma"/>
+        <NamedIndividual IRI="#low_esteem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Constipation"/>
+        <NamedIndividual IRI="#Amitza"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Constipation"/>
+        <NamedIndividual IRI="#Electrolyte_solution"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Constipation"/>
+        <NamedIndividual IRI="#Lactulose"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Constipation"/>
+        <NamedIndividual IRI="#Linzess"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Constipation"/>
+        <NamedIndividual IRI="#Polyethylene_glycol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Constipation"/>
+        <NamedIndividual IRI="#Gastro_Intestional"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Constipation"/>
+        <NamedIndividual IRI="#Irritable_Bowl_Syndrome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Cortisol"/>
+        <NamedIndividual IRI="#Difficult_to_concentrate"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Cortisol"/>
+        <NamedIndividual IRI="#Dizzines"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Cortisol"/>
+        <NamedIndividual IRI="#Forgetfulness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Cortisol"/>
+        <NamedIndividual IRI="#Loss_of_appetaite"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Cortisol"/>
+        <NamedIndividual IRI="#Missing_menstural_cycle"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Cortisol"/>
+        <NamedIndividual IRI="#Over_eating"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Cortisol"/>
+        <NamedIndividual IRI="#Sleep_disturbances"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Depression"/>
+        <NamedIndividual IRI="#Celexa"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Depression"/>
+        <NamedIndividual IRI="#Prozac"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Depression"/>
+        <NamedIndividual IRI="#Zoloft"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Diarrhoea"/>
+        <NamedIndividual IRI="#Kaopectate"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Diarrhoea"/>
+        <NamedIndividual IRI="#Pepto-Bismol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Diarrhoea"/>
+        <NamedIndividual IRI="#Rifaximin"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Diarrhoea"/>
+        <NamedIndividual IRI="#Gastro_Intestional"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Difficult_to_concentrate"/>
+        <NamedIndividual IRI="#meditation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Disorganisation"/>
+        <NamedIndividual IRI="#meditation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Dopamine"/>
+        <NamedIndividual IRI="#Depression"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Dopamine"/>
+        <NamedIndividual IRI="#Heart_palpitation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Dopamine"/>
+        <NamedIndividual IRI="#Obsessive_Compullsion_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Dopamine"/>
+        <NamedIndividual IRI="#Sleep_disturbances"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Epinephrine"/>
+        <NamedIndividual IRI="#Rapid_heartbeat"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_caused"/>
+        <NamedIndividual IRI="#Family_Issues"/>
+        <NamedIndividual IRI="#low_esteem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Family_Issues"/>
+        <NamedIndividual IRI="#Anxiety_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Family_Issues"/>
+        <NamedIndividual IRI="#Avoiding_others"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Family_Issues"/>
+        <NamedIndividual IRI="#Depression"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Family_Issues"/>
+        <NamedIndividual IRI="#Difficult_to_concentrate"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Family_Issues"/>
+        <NamedIndividual IRI="#Feeling_agitated"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Family_Issues"/>
+        <NamedIndividual IRI="#Feeling_overwhelmed"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Family_Issues"/>
+        <NamedIndividual IRI="#Frustration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Family_Issues"/>
+        <NamedIndividual IRI="#Loss_of_appetaite"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Family_Issues"/>
+        <NamedIndividual IRI="#low_esteem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+        <NamedIndividual IRI="#Anxiety_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+        <NamedIndividual IRI="#Depression"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+        <NamedIndividual IRI="#Feeling_overwhelmed"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+        <NamedIndividual IRI="#Gastro_Intestional"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+        <NamedIndividual IRI="#Insomnia"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+        <NamedIndividual IRI="#Loss_of_appetaite"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+        <NamedIndividual IRI="#Nausea"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+        <NamedIndividual IRI="#Obsessive_Compullsion_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+        <NamedIndividual IRI="#Over_Eating"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+        <NamedIndividual IRI="#Weight_gain_or_loss"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Fear_for_future"/>
+        <NamedIndividual IRI="#low_esteem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Fibromyalgia"/>
+        <NamedIndividual IRI="#Duloxetine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Fibromyalgia"/>
+        <NamedIndividual IRI="#Milnacipran"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Forgetfulness"/>
+        <NamedIndividual IRI="#meditation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#HPA_axis"/>
+        <NamedIndividual IRI="#Fatigue"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#HPA_axis"/>
+        <NamedIndividual IRI="#Insomnia"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#HPA_axis"/>
+        <NamedIndividual IRI="#Irritable_Bowl_Syndrome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Head_aches"/>
+        <NamedIndividual IRI="#Acupuncture_and_Acupressure"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Head_aches"/>
+        <NamedIndividual IRI="#Advil"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Head_aches"/>
+        <NamedIndividual IRI="#Aleve"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Head_aches"/>
+        <NamedIndividual IRI="#Bayer"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Head_aches"/>
+        <NamedIndividual IRI="#Tylenol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Head_aches"/>
+        <NamedIndividual IRI="#Migrane"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Heart_palpitation"/>
+        <NamedIndividual IRI="#Post-traumatic_stress_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Hippocampus"/>
+        <NamedIndividual IRI="#Anxiety_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Hippocampus"/>
+        <NamedIndividual IRI="#Forgetfulness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Hippocampus"/>
+        <NamedIndividual IRI="#Obsessive_Compullsion_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Hippocampus"/>
+        <NamedIndividual IRI="#Post-traumatic_stress_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Imodium"/>
+        <NamedIndividual IRI="#Imodium"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Insomnia"/>
+        <NamedIndividual IRI="#Acupuncture_and_Acupressure"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Insomnia"/>
+        <NamedIndividual IRI="#Prazosin"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Irritable_Bowl_Syndrome"/>
+        <NamedIndividual IRI="#Alosetron"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Irritable_Bowl_Syndrome"/>
+        <NamedIndividual IRI="#Lubiprostone"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_showing"/>
+        <NamedIndividual IRI="#Manikanta"/>
+        <NamedIndividual IRI="#Head_aches"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_showing"/>
+        <NamedIndividual IRI="#Manojkumar"/>
+        <NamedIndividual IRI="#Post-traumatic_stress_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Migrane"/>
+        <NamedIndividual IRI="#Amitriptyline"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Migrane"/>
+        <NamedIndividual IRI="#Doxepin"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Migrane"/>
+        <NamedIndividual IRI="#Imipramine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Muscle_aches"/>
+        <NamedIndividual IRI="#Warm_water_bath"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Nausea"/>
+        <NamedIndividual IRI="#Esomeprazole"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Nausea"/>
+        <NamedIndividual IRI="#Histamine2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Nausea"/>
+        <NamedIndividual IRI="#Pepto-Bismol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Nausea"/>
+        <NamedIndividual IRI="#Sucralfate"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Nausea"/>
+        <NamedIndividual IRI="#Gastro_Intestional"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Night_sweating"/>
+        <NamedIndividual IRI="#Heart_palpitation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Obsessive_Compullsion_disorder"/>
+        <NamedIndividual IRI="#Acupuncture_and_Acupressure"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Obsessive_Compullsion_disorder"/>
+        <NamedIndividual IRI="#Behaviour_therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Over_Eating"/>
+        <NamedIndividual IRI="#Obesity"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Panic_disorder"/>
+        <NamedIndividual IRI="#Celexa"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Panic_disorder"/>
+        <NamedIndividual IRI="#Prozac"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Panic_disorder"/>
+        <NamedIndividual IRI="#Zoloft"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Parents_Divorse"/>
+        <NamedIndividual IRI="#Depression"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Parents_Divorse"/>
+        <NamedIndividual IRI="#Feeling_agitated"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Parents_Divorse"/>
+        <NamedIndividual IRI="#Loneliness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Parents_Divorse"/>
+        <NamedIndividual IRI="#Loss_of_appetaite"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Parents_Divorse"/>
+        <NamedIndividual IRI="#Nausea"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Parents_Divorse"/>
+        <NamedIndividual IRI="#Post-traumatic_stress_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Post-traumatic_stress_disorder"/>
+        <NamedIndividual IRI="#pyschotherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Prefrontal_cortex"/>
+        <NamedIndividual IRI="#Difficult_to_concentrate"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Prefrontal_cortex"/>
+        <NamedIndividual IRI="#Disorganisation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Prefrontal_cortex"/>
+        <NamedIndividual IRI="#Forgetfulness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Rapid_heartbeat"/>
+        <NamedIndividual IRI="#Heart_palpitation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_showing"/>
+        <NamedIndividual IRI="#Saieswar"/>
+        <NamedIndividual IRI="#head_aches"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Self_blame"/>
+        <NamedIndividual IRI="#Depression"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Self_blame"/>
+        <NamedIndividual IRI="#low_esteem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Sexual_Abuse"/>
+        <NamedIndividual IRI="#Avoiding_others"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Sexual_Abuse"/>
+        <NamedIndividual IRI="#Insomnia"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Sexual_Abuse"/>
+        <NamedIndividual IRI="#Obsessive_Compullsion_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Sexual_Abuse"/>
+        <NamedIndividual IRI="#Panic_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Sexual_Abuse"/>
+        <NamedIndividual IRI="#Post-traumatic_stress_disorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Sexual_Abuse"/>
+        <NamedIndividual IRI="#loss_of_libido"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Sexual_Abuse"/>
+        <NamedIndividual IRI="#low_esteem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Shorten_of_Breath"/>
+        <NamedIndividual IRI="#Heart_palpitation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Skin_rashes"/>
+        <NamedIndividual IRI="#Allegra"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Skin_rashes"/>
+        <NamedIndividual IRI="#Benadryl"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Skin_rashes"/>
+        <NamedIndividual IRI="#Claritin"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Skin_rashes"/>
+        <NamedIndividual IRI="#Zyrtec"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_treated"/>
+        <NamedIndividual IRI="#Sleep_disturbances"/>
+        <NamedIndividual IRI="#Prazosin"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_showing"/>
+        <NamedIndividual IRI="#Sowmya"/>
+        <NamedIndividual IRI="#Sleep_disturbances"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_showing"/>
+        <NamedIndividual IRI="#Sowmya"/>
+        <NamedIndividual IRI="#sleep_disturbances"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Spend_time_alone"/>
+        <NamedIndividual IRI="#Difficult_to_communicate"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Spend_time_alone"/>
+        <NamedIndividual IRI="#Loneliness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Weight_gain_or_loss"/>
+        <NamedIndividual IRI="#Irritable_Bowl_Syndrome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#leads_to"/>
+        <NamedIndividual IRI="#Weight_gain_or_loss"/>
+        <NamedIndividual IRI="#Obesity"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Avoiding_others"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Dizzines"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Feeling_Restless"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Frustration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Gastro_Intestional"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Head_aches"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Loss_of_appetaite"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Missing_menstural_cycle"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Muscle_aches"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Nausea"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Sleep_disturbances"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#Weight_gain_or_loss"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Work_load"/>
+        <NamedIndividual IRI="#loss_of_libido"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#arguments"/>
+        <NamedIndividual IRI="#Frustration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#arguments"/>
+        <NamedIndividual IRI="#Head_aches"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_mediated_by"/>
+        <NamedIndividual IRI="#arguments"/>
+        <NamedIndividual IRI="#Epinephrine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#deadlines"/>
+        <NamedIndividual IRI="#Difficult_to_concentrate"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#deadlines"/>
+        <NamedIndividual IRI="#Feeling_Restless"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#deadlines"/>
+        <NamedIndividual IRI="#Frustration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#deadlines"/>
+        <NamedIndividual IRI="#Head_aches"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_mediated_by"/>
+        <NamedIndividual IRI="#deadlines"/>
+        <NamedIndividual IRI="#Epinephrine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#exams"/>
+        <NamedIndividual IRI="#Feeling_Restless"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#exams"/>
+        <NamedIndividual IRI="#Feeling_fear"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#exams"/>
+        <NamedIndividual IRI="#Frustration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#exams"/>
+        <NamedIndividual IRI="#Head_aches"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_mediated_by"/>
+        <NamedIndividual IRI="#exams"/>
+        <NamedIndividual IRI="#Epinephrine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#expressing_oneself"/>
+        <NamedIndividual IRI="#Avoiding_others"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#expressing_oneself"/>
+        <NamedIndividual IRI="#Difficult_to_communicate"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#expressing_oneself"/>
+        <NamedIndividual IRI="#Nausea"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#expressing_oneself"/>
+        <NamedIndividual IRI="#Rapid_heartbeat"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_mediated_by"/>
+        <NamedIndividual IRI="#expressing_oneself"/>
+        <NamedIndividual IRI="#Epinephrine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#over_using_social_media"/>
+        <NamedIndividual IRI="#Depression"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#over_using_social_media"/>
+        <NamedIndividual IRI="#Feeling_Restless"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#over_using_social_media"/>
+        <NamedIndividual IRI="#Feeling_overwhelmed"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#over_using_social_media"/>
+        <NamedIndividual IRI="#Frustration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#over_using_social_media"/>
+        <NamedIndividual IRI="#Head_aches"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#over_using_social_media"/>
+        <NamedIndividual IRI="#Loneliness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#over_using_social_media"/>
+        <NamedIndividual IRI="#Sleep_disturbances"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#over_using_social_media"/>
+        <NamedIndividual IRI="#low_esteem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_mediated_by"/>
+        <NamedIndividual IRI="#over_using_social_media"/>
+        <NamedIndividual IRI="#Epinephrine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#participation"/>
+        <NamedIndividual IRI="#Feeling_Restless"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#participation"/>
+        <NamedIndividual IRI="#Frustration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#participation"/>
+        <NamedIndividual IRI="#Head_aches"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#participation"/>
+        <NamedIndividual IRI="#Sleep_disturbances"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_mediated_by"/>
+        <NamedIndividual IRI="#participation"/>
+        <NamedIndividual IRI="#Epinephrine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_mediated_by"/>
+        <NamedIndividual IRI="#time_management"/>
+        <NamedIndividual IRI="#Epinephrine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+        <NamedIndividual IRI="#Anxiety"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+        <NamedIndividual IRI="#Chest_Pain"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+        <NamedIndividual IRI="#Diarrhoea"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+        <NamedIndividual IRI="#Disorganisation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+        <NamedIndividual IRI="#Forgetfulness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+        <NamedIndividual IRI="#Frustration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+        <NamedIndividual IRI="#Head_aches"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+        <NamedIndividual IRI="#Muscle_aches"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+        <NamedIndividual IRI="#Nausea"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_effected"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+        <NamedIndividual IRI="#Rapid_heartbeat"/>
+    </ObjectPropertyAssertion>
+    <NegativeObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Music"/>
+        <NamedIndividual IRI="#Anxiety_disorder"/>
+    </NegativeObjectPropertyAssertion>
+    <NegativeObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Seeking_Support"/>
+        <NamedIndividual IRI="#Avoiding_others"/>
+    </NegativeObjectPropertyAssertion>
+    <NegativeObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Seeking_Support"/>
+        <NamedIndividual IRI="#Difficult_to_communicate"/>
+    </NegativeObjectPropertyAssertion>
+    <NegativeObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Seeking_Support"/>
+        <NamedIndividual IRI="#Loneliness"/>
+    </NegativeObjectPropertyAssertion>
+    <NegativeObjectPropertyAssertion>
+        <ObjectProperty IRI="#mediated_to"/>
+        <NamedIndividual IRI="#Sleeping"/>
+        <NamedIndividual IRI="#Insomnia"/>
+    </NegativeObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Acupuncture_and_Acupressure"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Alternative_theapy</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Advil"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Over_the_counter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Alchol_or_Drugs"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Coping_pattern</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Aleve"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Over_the_counter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Allegra"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Over_the_counter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Alosetron"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Gender"/>
+        <NamedIndividual IRI="#Alosetron"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Female</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Amitriptyline"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Tricyclic Antidepressants</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Amitza"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Amygdala"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Limbic_System</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Bayer"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Over_the_counter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Behaviour_therapy"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Alternative_therapy</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Benadryl"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Over_the_counter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Celexa"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anti_depressants</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Claritin"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Over_the_counter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Cognitive_therapy"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">pyscotherapy</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Cortisol"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Stress_harmone</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Deep_breathing"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Physiological_techniques</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Dopamine"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Stress_Harmone</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Doxepin"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Tricyclic Antidepressant</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Duloxetine"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Epinephrine"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Stress_harmome</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Esomeprazole"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Exposure_therapy"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">pyscotherapy</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#HPA_axis"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">HPA_axis</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Hippocampus"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Limbic_System</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Histamine2"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Hydrotherapy"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Alternative_therapy</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Imipramine"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Tricyclic Antidepressant</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Imodium"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Interpersonal_therapy"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">pyscotherapy</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Kaopectate"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Lactulose"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Linzess"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Lubiprostone"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Gender"/>
+        <NamedIndividual IRI="#Lubiprostone"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Female</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Age"/>
+        <NamedIndividual IRI="#Manikanta"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">21</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Student_Name"/>
+        <NamedIndividual IRI="#Manikanta"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Manikanta</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Gender"/>
+        <NamedIndividual IRI="#Manikanta"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Male</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Age"/>
+        <NamedIndividual IRI="#Manojkumar"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">21</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Student_Name"/>
+        <NamedIndividual IRI="#Manojkumar"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Manojkumar</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Gender"/>
+        <NamedIndividual IRI="#Manojkumar"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Male</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Meditation"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Alternative_therapy</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Milnacipran"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Nitroglycerin"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Over_Eating"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Coping_pattern</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Pepto-Bismol"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Over_the_counter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Polyethylene_glycol"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Over_the_counter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Prazosin"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Progressive_muscle_relaxation"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Physiological_techniques</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Prozac"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anti_depressants</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Rifaximin"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Age"/>
+        <NamedIndividual IRI="#Saieswar"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">21</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Student_Name"/>
+        <NamedIndividual IRI="#Saieswar"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Saieswar</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Gender"/>
+        <NamedIndividual IRI="#Saieswar"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Male</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Age"/>
+        <NamedIndividual IRI="#Satya"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">21</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Student_Name"/>
+        <NamedIndividual IRI="#Satya"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Satya</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Gender"/>
+        <NamedIndividual IRI="#Satya"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Female</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Self_blame"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Coping_patern</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Age"/>
+        <NamedIndividual IRI="#Sowmya"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">19</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Student_Name"/>
+        <NamedIndividual IRI="#Sowmya"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Sowmya</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Gender"/>
+        <NamedIndividual IRI="#Sowmya"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Female</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Spend_time_alone"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Coping_pattern</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Sucralfate"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Medication</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Tylenol"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Over_the_counter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Warm_water_bath"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Physiological_techniques</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Zoloft"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anti_depressants</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Zyrtec"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Over_the_counter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#arguments"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Acute</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#deadlines"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Acute</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#exams"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Acute</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#expressing_oneself"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Acute</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#meditation"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Physiological_techniques</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#over_using_social_media"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Acute</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#participation"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Acute</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#yoga"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Physiological_techniques</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Class_Name"/>
+        <NamedIndividual IRI="#Alchol/Drugs"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Chronic</Literal>
+    </DataPropertyAssertion>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#causes"/>
+        <ObjectProperty IRI="#is_caused"/>
+    </InverseObjectProperties>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_caused"/>
+        <Class IRI="#Stress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_effected"/>
+        <Class IRI="#Stress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_mediated_by"/>
+        <Class IRI="#Stress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_showing"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_treated"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_treated"/>
+        <Class IRI="#Effects"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_treated"/>
+        <Class IRI="#Stress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_undergoing"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#leads_to"/>
+        <Class IRI="#Effects"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#mediated_to"/>
+        <Class IRI="#Mediators"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#is_caused"/>
+        <Class IRI="#Causes"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#is_effected"/>
+        <Class IRI="#Effects"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#is_mediated_by"/>
+        <Class IRI="#Mediators"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#is_showing"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Symptoms"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#is_treated"/>
+        <Class IRI="#Treatment"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#is_undergoing"/>
+        <Class IRI="#Stress"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#leads_to"/>
+        <Class IRI="#Effects"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#mediated_to"/>
+        <Class IRI="#Effects"/>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Age"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Student_Name"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#Class_Name"/>
+        <Class IRI="#Stress"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#Gender"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Student"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Age"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#Student_Name"/>
+        <Datatype abbreviatedIRI="rdfs:Literal"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#Class_Name"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#Gender"/>
+        <Datatype abbreviatedIRI="rdfs:Literal"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Esomeprazole</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">proton pump inhibitors</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Histamine2</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">receptor blocker</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Lactulose</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Chronic Constipation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Nausea</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Stress induced gastritis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Nitroglycerin</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Artery Relaxer</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+
