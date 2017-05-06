@@ -3015,6 +3015,7 @@
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Artery Relaxer</Literal>
     </AnnotationAssertion>
 </Ontology>
+<!-- Add new property -->
 
 
 
